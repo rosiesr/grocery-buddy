@@ -1,0 +1,20 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  color: #333;
+  font-size: 2rem;
+  margin: 0;
+}
+
+main {
+  color: #666;
+}
